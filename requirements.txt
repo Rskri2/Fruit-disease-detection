@@ -1,0 +1,9 @@
+flask
+flask_cors
+werkzeug
+tensorflow
+numpy
+dotenv
+numpy
+PIL
+io
